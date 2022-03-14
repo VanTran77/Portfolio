@@ -8,6 +8,7 @@ const useStyles = makeStyles({
     fontSize: 30,
     margin: 30,
     paddingLeft: 100,
+    marginBottom: 150,
   },
   li: {
     marginBottom: 15,
