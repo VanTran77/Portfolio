@@ -39,7 +39,7 @@ function AboutMe() {
         <h3>About Me</h3>
         <p>I am Van Tran. I am an enthusiastic, responsible, reliable, self-motivated and hard working person. I am a mature team worker and adaptable to all challenging situations.</p>
         <p>I am always willing to learn new skills. I am able to work well under pressure and adhere to strict deadlines. I like web development and this makes me happy.</p>
-        <p>I have 10+ years experiences in IT field such as Networking, IT System, Security, Helpdesk and I graduated Bachelor's degree in Computer Science in Vietnam. </p>
+        <p>I have 10+ years of experience’ in IT field such as Networking, IT System, Security, Helpdesk and I graduated Bachelor's degree in Computer Science in Vietnam. </p>
         <p>If you want to know more about me feel free, please use my information in right side of the page and make contact with me.</p>
         </Paper>
       </Slide>
